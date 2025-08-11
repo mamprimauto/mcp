@@ -1,0 +1,20 @@
+{
+  "name": "global-mcp",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Global MCP Manager para terminal local, SSH e GitHub",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0",
+    "ssh2": "^1.15.0",
+    "zod": "^3.22.0",
+    "dotenv": "^16.3.0"
+  },
+  "keywords": ["mcp", "terminal", "ssh", "github"],
+  "author": "Your Name",
+  "license": "MIT"
+}
