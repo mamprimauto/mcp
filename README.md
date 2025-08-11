@@ -2,6 +2,10 @@
 
 Um servidor MCP (Model Context Protocol) que permite executar comandos de terminal em diferentes contextos: local, SSH e GitHub.
 
+<a href="https://glama.ai/mcp/servers/@mamprimauto/mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@mamprimauto/mcp/badge" alt="Global Manager MCP server" />
+</a>
+
 ## Características
 
 - **Contexto Local**: Execute comandos no sistema local
